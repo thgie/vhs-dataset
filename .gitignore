@@ -1,0 +1,13 @@
+## System Files and Folders
+.DS_Store
+.ipynb_checkpoints/
+
+
+## Working Files and Folders
+preprocessed_*.png
+similar_images_*.txt
+
+mobygames/
+removed_images/
+similar-images-remover/
+screenshots/

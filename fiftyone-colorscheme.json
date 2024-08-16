@@ -1,0 +1,154 @@
+{
+    "colorPool": [
+        "#ee0000",
+        "#ee6600",
+        "#993300",
+        "#996633",
+        "#999900",
+        "#009900",
+        "#003300",
+        "#009999",
+        "#000099",
+        "#0066ff",
+        "#6600ff",
+        "#cc33cc",
+        "#777799"
+    ],
+    "colorBy": "value",
+    "opacity": 0.72,
+    "multicolorKeypoints": false,
+    "showSkeletons": true,
+    "fields": [
+        {
+            "path": "years",
+            "fieldColor": null,
+            "colorByAttribute": null,
+            "valueColors": [
+                {
+                    "color": "#FFFFFF",
+                    "value": "1962"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1963"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1964"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1965"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1966"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1967"
+                },
+                {
+                    "color": "#FFFFFF",
+                    "value": "1968"
+                },
+                {
+                    "color": "#EEFFFF",
+                    "value": "1969"
+                },
+                {
+                    "color": "#DDFFFF",
+                    "value": "1970"
+                },
+                {
+                    "color": "#CCFFFF",
+                    "value": "1971"
+                },
+                {
+                    "color": "#BBFFFF",
+                    "value": "1972"
+                },
+                {
+                    "color": "#AAFFFF",
+                    "value": "1973"
+                },
+                {
+                    "color": "#99FFFF",
+                    "value": "1974"
+                },
+                {
+                    "color": "#88FFFF",
+                    "value": "1975"
+                },
+                {
+                    "color": "#77FFFF",
+                    "value": "1976"
+                },
+                {
+                    "color": "#66FFFF",
+                    "value": "1977"
+                },
+                {
+                    "color": "#55FFFF",
+                    "value": "1978"
+                },
+                {
+                    "color": "#44FFFF",
+                    "value": "1979"
+                },
+                {
+                    "color": "#FFFF00",
+                    "value": "1980"
+                },
+                {
+                    "color": "#FFEE11",
+                    "value": "1981"
+                },
+                {
+                    "color": "#FFDD22",
+                    "value": "1982"
+                },
+                {
+                    "color": "#FFCC33",
+                    "value": "1983"
+                },
+                {
+                    "color": "#FFBB44",
+                    "value": "1984"
+                },
+                {
+                    "color": "#FFAA55",
+                    "value": "1985"
+                },
+                {
+                    "color": "#FF9966",
+                    "value": "1986"
+                },
+                {
+                    "color": "#FF8877",
+                    "value": "1987"
+                },
+                {
+                    "color": "#FF7788",
+                    "value": "1988"
+                },
+                {
+                    "color": "#FF6699",
+                    "value": "1989"
+                },
+                {
+                    "color": "#880077",
+                    "value": "1990"
+                }
+            ],
+            "maskTargetsColors": []
+        }
+    ],
+    "labelTags": null,
+    "defaultMaskTargetsColors": null,
+    "colorscales": [],
+    "defaultColorscale": {
+        "name": "viridis",
+        "list": null
+    }
+}

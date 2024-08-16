@@ -1,0 +1,1649 @@
+{
+    "platforms": [
+        "1292-advanced-programmable-video-system",
+        "3do",
+        "abc-80",
+        "apf-mp1000imagination-machine",
+        "acorn-32-bit",
+        "adventure-vision",
+        "airconsole",
+        "alice-3290",
+        "altair-680",
+        "altair-8800",
+        "amazon-alexa",
+        "amiga",
+        "amiga-cd32",
+        "amstrad-cpc",
+        "amstrad-pcw",
+        "android",
+        "antstream",
+        "apple-i",
+        "apple-ii",
+        "apple-iigs",
+        "arcade",
+        "arcadia-2001",
+        "arduboy",
+        "astral-2000",
+        "atari-2600",
+        "atari-5200",
+        "atari-7800",
+        "atari-8-bit",
+        "atari-st",
+        "atari-vcs",
+        "atom",
+        "bbc-micro",
+        "brew",
+        "bally-astrocade",
+        "beos",
+        "blackberry",
+        "blacknut",
+        "blu-ray-disc-player",
+        "browser",
+        "bubble",
+        "cd-i",
+        "cdtv",
+        "cosmac",
+        "cpm",
+        "camputers-lynx",
+        "casio-loopy",
+        "casio-pv-1000",
+        "casio-programmable-calculator",
+        "champion-2711",
+        "channel-f",
+        "clickstart",
+        "coleco-adam",
+        "colecovision",
+        "colour-genie",
+        "commodore-128",
+        "commodore-16-plus4",
+        "commodore-64",
+        "commodore-petcbm",
+        "compal-80",
+        "compucolor-i",
+        "compucolor-ii",
+        "compucorp-programmable-calculator",
+        "creativision",
+        "cybervision",
+        "dai",
+        "dos",
+        "dvd-player",
+        "danger-os",
+        "dedicated-console",
+        "dedicated-handheld",
+        "didj",
+        "doja",
+        "dragon-3264",
+        "dreamcast",
+        "ecd-micromind",
+        "electron",
+        "enterprise",
+        "epoch-cassette-vision",
+        "epoch-game-pocket-computer",
+        "epoch-super-cassette-vision",
+        "evercade",
+        "exen",
+        "exelvision",
+        "exidy-sorcerer",
+        "fm-towns",
+        "fm-7",
+        "feature-phone",
+        "fire-os",
+        "freebox",
+        "g-cluster",
+        "gimini",
+        "gnex",
+        "gp2x",
+        "gp2x-wiz",
+        "gp32",
+        "gvm",
+        "galaksija",
+        "game-boy",
+        "game-boy-advance",
+        "game-boy-color",
+        "game-gear",
+        "game-wave",
+        "game-com",
+        "gamecube",
+        "gamestick",
+        "genesis",
+        "gizmondo",
+        "gloud",
+        "glulx",
+        "hd-dvd-player",
+        "hp-9800",
+        "hp-oscilloscope",
+        "hp-programmable-calculator",
+        "hp-series-80",
+        "heathzenith-h8h89",
+        "heathkit-h11",
+        "hitachi-basic-master-level-3",
+        "hitachi-s1",
+        "hugo",
+        "hyperscan",
+        "ibm-5100",
+        "ideal-computer",
+        "intel-8008",
+        "intel-8080",
+        "intel-8086-8088",
+        "intellivision",
+        "interact-model-one",
+        "interton-video-2000",
+        "j2me",
+        "jaguar",
+        "jolt",
+        "jupiter-ace",
+        "kim-1",
+        "kaios",
+        "kindle-classic",
+        "laser-200",
+        "laseractive",
+        "leapfrog-explorer",
+        "leaptv",
+        "leapster",
+        "linux",
+        "luna",
+        "lynx",
+        "mos-technology-6502",
+        "mre",
+        "msx",
+        "macintosh",
+        "maemo",
+        "magic-leap",
+        "mainframe",
+        "matsushitapanasonic-jr",
+        "mattel-aquarius",
+        "meego",
+        "memotech-mtx",
+        "meritum",
+        "microbee",
+        "microtan-65",
+        "microvision",
+        "mitsubishi-multi-8",
+        "mophun",
+        "motorola-6800",
+        "motorola-68k",
+        "n-gage",
+        "n-gage-service",
+        "nes",
+        "nascom",
+        "neo-geo",
+        "neo-geo-cd",
+        "neo-geo-pocket",
+        "neo-geo-pocket-color",
+        "neo-geo-x",
+        "new-nintendo-3ds",
+        "newbrain",
+        "newton",
+        "nintendo-3ds",
+        "nintendo-64",
+        "nintendo-ds",
+        "nintendo-dsi",
+        "nintendo-switch",
+        "north-star",
+        "noval-760",
+        "nuon",
+        "ooparts",
+        "os2",
+        "oculus-go",
+        "odyssey",
+        "odyssey-2",
+        "ohio-scientific",
+        "onlive",
+        "orao",
+        "oric",
+        "ouya",
+        "pc-booter",
+        "pc-6001",
+        "pc-8000",
+        "pc-88",
+        "pc-98",
+        "pc-fx",
+        "pico",
+        "ps-vita",
+        "psp",
+        "palm-os",
+        "pandora",
+        "pebble",
+        "philips-p2000",
+        "philips-vg-5000",
+        "photo-cd",
+        "pippin",
+        "playstation",
+        "playstation-2",
+        "playstation-3",
+        "playstation-4",
+        "playstation-5",
+        "playstation-now",
+        "playdate",
+        "playdia",
+        "plex-arcade",
+        "pokitto",
+        "pokemon-mini",
+        "poly-88",
+        "quest",
+        "rca-studio-ii",
+        "research-machines-380z",
+        "roku",
+        "sam-coupe",
+        "scmp",
+        "sd-200270290",
+        "sega-32x",
+        "sega-cd",
+        "sega-master-system",
+        "sega-pico",
+        "sega-saturn",
+        "sg-1000",
+        "sk-vm",
+        "smc-777",
+        "snes",
+        "spc-1000",
+        "sri-5001000",
+        "swtpc-6800",
+        "sharp-mz-80b20002500",
+        "sharp-mz-80k7008001500",
+        "sharp-x1",
+        "sharp-x68000",
+        "sharp-zaurus",
+        "signetics-2650",
+        "sinclair-ql",
+        "socrates",
+        "sol-20",
+        "sord-m5",
+        "spectravideo",
+        "stadia",
+        "super-a-can",
+        "super-vision-8000",
+        "supergrafx",
+        "supervision",
+        "sure-shot-hd",
+        "symbian",
+        "tads",
+        "ti-programmable-calculator",
+        "ti-994a",
+        "tim",
+        "trs-80",
+        "trs-80-coco",
+        "trs-80-mc-10",
+        "trs-80-model-100",
+        "taito-x-55",
+        "tatung-einstein",
+        "tektronix-4050",
+        "tele-spiel-es-2201",
+        "telstar-arcade",
+        "terminal",
+        "thomson-mo",
+        "thomson-to",
+        "tiki-100",
+        "timex-sinclair-2068",
+        "tizen",
+        "tomahawk-f1",
+        "tomy-tutor",
+        "toshiba-pasopia",
+        "triton",
+        "turbografx-cd",
+        "turbografx-16",
+        "v-flash",
+        "v-smile",
+        "vic-20",
+        "vis",
+        "vectrex",
+        "versatile",
+        "videobrain",
+        "videopac-g7400",
+        "virtual-boy",
+        "wipi",
+        "wang-2200",
+        "wii",
+        "wii-u",
+        "windows",
+        "windows-3-x",
+        "windows-apps",
+        "windows-mobile",
+        "windows-phone",
+        "wonderswan",
+        "wonderswan-color",
+        "xavixport",
+        "xbox",
+        "xbox-360",
+        "xbox-cloud-gaming",
+        "xbox-one",
+        "xbox-series",
+        "xerox-alto",
+        "z-machine",
+        "zx-spectrum",
+        "zx-spectrum-next",
+        "zx80",
+        "zx81",
+        "zeebo",
+        "zilog-z80",
+        "zilog-z8000",
+        "zodiac",
+        "zune",
+        "bada",
+        "digiblast",
+        "ipad",
+        "iphone",
+        "ipod-classic",
+        "iircade",
+        "tvos",
+        "visionos",
+        "watchos",
+        "webos"
+    ],
+    "1292-advanced-programmable-video-system": {
+        "platform_id": 253,
+        "platform_name": "1292 Advanced Programmable Video System"
+    },
+    "3do": {
+        "platform_id": 35,
+        "platform_name": "3DO"
+    },
+    "abc-80": {
+        "platform_id": 318,
+        "platform_name": "ABC 80"
+    },
+    "apf-mp1000imagination-machine": {
+        "platform_id": 213,
+        "platform_name": "APF MP1000/Imagination Machine"
+    },
+    "acorn-32-bit": {
+        "platform_id": 117,
+        "platform_name": "Acorn 32-bit"
+    },
+    "adventure-vision": {
+        "platform_id": 210,
+        "platform_name": "Adventure Vision"
+    },
+    "airconsole": {
+        "platform_id": 305,
+        "platform_name": "AirConsole"
+    },
+    "alice-3290": {
+        "platform_id": 194,
+        "platform_name": "Alice 32/90"
+    },
+    "altair-680": {
+        "platform_id": 265,
+        "platform_name": "Altair 680"
+    },
+    "altair-8800": {
+        "platform_id": 222,
+        "platform_name": "Altair 8800"
+    },
+    "amazon-alexa": {
+        "platform_id": 237,
+        "platform_name": "Amazon Alexa"
+    },
+    "amiga": {
+        "platform_id": 19,
+        "platform_name": "Amiga"
+    },
+    "amiga-cd32": {
+        "platform_id": 56,
+        "platform_name": "Amiga CD32"
+    },
+    "amstrad-cpc": {
+        "platform_id": 60,
+        "platform_name": "Amstrad CPC"
+    },
+    "amstrad-pcw": {
+        "platform_id": 136,
+        "platform_name": "Amstrad PCW"
+    },
+    "android": {
+        "platform_id": 91,
+        "platform_name": "Android"
+    },
+    "antstream": {
+        "platform_id": 286,
+        "platform_name": "Antstream"
+    },
+    "apple-i": {
+        "platform_id": 245,
+        "platform_name": "Apple I"
+    },
+    "apple-ii": {
+        "platform_id": 31,
+        "platform_name": "Apple II"
+    },
+    "apple-iigs": {
+        "platform_id": 51,
+        "platform_name": "Apple IIgs"
+    },
+    "arcade": {
+        "platform_id": 143,
+        "platform_name": "Arcade"
+    },
+    "arcadia-2001": {
+        "platform_id": 162,
+        "platform_name": "Arcadia 2001"
+    },
+    "arduboy": {
+        "platform_id": 215,
+        "platform_name": "Arduboy"
+    },
+    "astral-2000": {
+        "platform_id": 241,
+        "platform_name": "Astral 2000"
+    },
+    "atari-2600": {
+        "platform_id": 28,
+        "platform_name": "Atari 2600"
+    },
+    "atari-5200": {
+        "platform_id": 33,
+        "platform_name": "Atari 5200"
+    },
+    "atari-7800": {
+        "platform_id": 34,
+        "platform_name": "Atari 7800"
+    },
+    "atari-8-bit": {
+        "platform_id": 39,
+        "platform_name": "Atari 8-bit"
+    },
+    "atari-st": {
+        "platform_id": 24,
+        "platform_name": "Atari ST"
+    },
+    "atari-vcs": {
+        "platform_id": 319,
+        "platform_name": "Atari VCS"
+    },
+    "atom": {
+        "platform_id": 129,
+        "platform_name": "Atom"
+    },
+    "bbc-micro": {
+        "platform_id": 92,
+        "platform_name": "BBC Micro"
+    },
+    "brew": {
+        "platform_id": 63,
+        "platform_name": "BREW"
+    },
+    "bally-astrocade": {
+        "platform_id": 160,
+        "platform_name": "Bally Astrocade"
+    },
+    "beos": {
+        "platform_id": 165,
+        "platform_name": "BeOS"
+    },
+    "blackberry": {
+        "platform_id": 90,
+        "platform_name": "BlackBerry"
+    },
+    "blacknut": {
+        "platform_id": 290,
+        "platform_name": "Blacknut"
+    },
+    "blu-ray-disc-player": {
+        "platform_id": 168,
+        "platform_name": "Blu-ray Disc Player"
+    },
+    "browser": {
+        "platform_id": 84,
+        "platform_name": "Browser"
+    },
+    "bubble": {
+        "platform_id": 231,
+        "platform_name": "Bubble"
+    },
+    "cd-i": {
+        "platform_id": 73,
+        "platform_name": "CD-i"
+    },
+    "cdtv": {
+        "platform_id": 83,
+        "platform_name": "CDTV"
+    },
+    "cosmac": {
+        "platform_id": 216,
+        "platform_name": "COSMAC"
+    },
+    "cpm": {
+        "platform_id": 261,
+        "platform_name": "CP/M"
+    },
+    "camputers-lynx": {
+        "platform_id": 154,
+        "platform_name": "Camputers Lynx"
+    },
+    "casio-loopy": {
+        "platform_id": 124,
+        "platform_name": "Casio Loopy"
+    },
+    "casio-pv-1000": {
+        "platform_id": 125,
+        "platform_name": "Casio PV-1000"
+    },
+    "casio-programmable-calculator": {
+        "platform_id": 306,
+        "platform_name": "Casio Programmable Calculator"
+    },
+    "champion-2711": {
+        "platform_id": 298,
+        "platform_name": "Champion 2711"
+    },
+    "channel-f": {
+        "platform_id": 76,
+        "platform_name": "Channel F"
+    },
+    "clickstart": {
+        "platform_id": 188,
+        "platform_name": "ClickStart"
+    },
+    "coleco-adam": {
+        "platform_id": 156,
+        "platform_name": "Coleco Adam"
+    },
+    "colecovision": {
+        "platform_id": 29,
+        "platform_name": "ColecoVision"
+    },
+    "colour-genie": {
+        "platform_id": 197,
+        "platform_name": "Colour Genie"
+    },
+    "commodore-128": {
+        "platform_id": 61,
+        "platform_name": "Commodore 128"
+    },
+    "commodore-16-plus4": {
+        "platform_id": 115,
+        "platform_name": "Commodore 16, Plus/4"
+    },
+    "commodore-64": {
+        "platform_id": 27,
+        "platform_name": "Commodore 64"
+    },
+    "commodore-petcbm": {
+        "platform_id": 77,
+        "platform_name": "Commodore PET/CBM"
+    },
+    "compal-80": {
+        "platform_id": 277,
+        "platform_name": "Compal 80"
+    },
+    "compucolor-i": {
+        "platform_id": 243,
+        "platform_name": "Compucolor I"
+    },
+    "compucolor-ii": {
+        "platform_id": 198,
+        "platform_name": "Compucolor II"
+    },
+    "compucorp-programmable-calculator": {
+        "platform_id": 238,
+        "platform_name": "Compucorp Programmable Calculator"
+    },
+    "creativision": {
+        "platform_id": 212,
+        "platform_name": "CreatiVision"
+    },
+    "cybervision": {
+        "platform_id": 301,
+        "platform_name": "Cybervision"
+    },
+    "dai": {
+        "platform_id": 329,
+        "platform_name": "DAI"
+    },
+    "dos": {
+        "platform_id": 2,
+        "platform_name": "DOS"
+    },
+    "dvd-player": {
+        "platform_id": 166,
+        "platform_name": "DVD Player"
+    },
+    "danger-os": {
+        "platform_id": 285,
+        "platform_name": "Danger OS"
+    },
+    "dedicated-console": {
+        "platform_id": 204,
+        "platform_name": "Dedicated console"
+    },
+    "dedicated-handheld": {
+        "platform_id": 205,
+        "platform_name": "Dedicated handheld"
+    },
+    "didj": {
+        "platform_id": 184,
+        "platform_name": "Didj"
+    },
+    "doja": {
+        "platform_id": 72,
+        "platform_name": "DoJa"
+    },
+    "dragon-3264": {
+        "platform_id": 79,
+        "platform_name": "Dragon 32/64"
+    },
+    "dreamcast": {
+        "platform_id": 8,
+        "platform_name": "Dreamcast"
+    },
+    "ecd-micromind": {
+        "platform_id": 269,
+        "platform_name": "ECD Micromind"
+    },
+    "electron": {
+        "platform_id": 93,
+        "platform_name": "Electron"
+    },
+    "enterprise": {
+        "platform_id": 161,
+        "platform_name": "Enterprise"
+    },
+    "epoch-cassette-vision": {
+        "platform_id": 137,
+        "platform_name": "Epoch Cassette Vision"
+    },
+    "epoch-game-pocket-computer": {
+        "platform_id": 139,
+        "platform_name": "Epoch Game Pocket Computer"
+    },
+    "epoch-super-cassette-vision": {
+        "platform_id": 138,
+        "platform_name": "Epoch Super Cassette Vision"
+    },
+    "evercade": {
+        "platform_id": 284,
+        "platform_name": "Evercade"
+    },
+    "exen": {
+        "platform_id": 70,
+        "platform_name": "ExEn"
+    },
+    "exelvision": {
+        "platform_id": 195,
+        "platform_name": "Exelvision"
+    },
+    "exidy-sorcerer": {
+        "platform_id": 176,
+        "platform_name": "Exidy Sorcerer"
+    },
+    "fm-towns": {
+        "platform_id": 102,
+        "platform_name": "FM Towns"
+    },
+    "fm-7": {
+        "platform_id": 126,
+        "platform_name": "FM-7"
+    },
+    "feature-phone": {
+        "platform_id": 315,
+        "platform_name": "Feature phone"
+    },
+    "fire-os": {
+        "platform_id": 159,
+        "platform_name": "Fire OS"
+    },
+    "freebox": {
+        "platform_id": 268,
+        "platform_name": "Freebox"
+    },
+    "g-cluster": {
+        "platform_id": 302,
+        "platform_name": "G-cluster"
+    },
+    "gimini": {
+        "platform_id": 251,
+        "platform_name": "GIMINI"
+    },
+    "gnex": {
+        "platform_id": 258,
+        "platform_name": "GNEX"
+    },
+    "gp2x": {
+        "platform_id": 122,
+        "platform_name": "GP2X"
+    },
+    "gp2x-wiz": {
+        "platform_id": 123,
+        "platform_name": "GP2X Wiz"
+    },
+    "gp32": {
+        "platform_id": 108,
+        "platform_name": "GP32"
+    },
+    "gvm": {
+        "platform_id": 257,
+        "platform_name": "GVM"
+    },
+    "galaksija": {
+        "platform_id": 236,
+        "platform_name": "Galaksija"
+    },
+    "game-boy": {
+        "platform_id": 10,
+        "platform_name": "Game Boy"
+    },
+    "game-boy-advance": {
+        "platform_id": 12,
+        "platform_name": "Game Boy Advance"
+    },
+    "game-boy-color": {
+        "platform_id": 11,
+        "platform_name": "Game Boy Color"
+    },
+    "game-gear": {
+        "platform_id": 25,
+        "platform_name": "Game Gear"
+    },
+    "game-wave": {
+        "platform_id": 104,
+        "platform_name": "Game Wave"
+    },
+    "game-com": {
+        "platform_id": 50,
+        "platform_name": "Game.Com"
+    },
+    "gamecube": {
+        "platform_id": 14,
+        "platform_name": "GameCube"
+    },
+    "gamestick": {
+        "platform_id": 155,
+        "platform_name": "GameStick"
+    },
+    "genesis": {
+        "platform_id": 16,
+        "platform_name": "Genesis"
+    },
+    "gizmondo": {
+        "platform_id": 55,
+        "platform_name": "Gizmondo"
+    },
+    "gloud": {
+        "platform_id": 292,
+        "platform_name": "Gloud"
+    },
+    "glulx": {
+        "platform_id": 172,
+        "platform_name": "Glulx"
+    },
+    "hd-dvd-player": {
+        "platform_id": 167,
+        "platform_name": "HD DVD Player"
+    },
+    "hp-9800": {
+        "platform_id": 219,
+        "platform_name": "HP 9800"
+    },
+    "hp-oscilloscope": {
+        "platform_id": 324,
+        "platform_name": "HP Oscilloscope"
+    },
+    "hp-programmable-calculator": {
+        "platform_id": 234,
+        "platform_name": "HP Programmable Calculator"
+    },
+    "hp-series-80": {
+        "platform_id": 320,
+        "platform_name": "HP Series 80"
+    },
+    "heathzenith-h8h89": {
+        "platform_id": 262,
+        "platform_name": "Heath/Zenith H8/H89"
+    },
+    "heathkit-h11": {
+        "platform_id": 248,
+        "platform_name": "Heathkit H11"
+    },
+    "hitachi-basic-master-level-3": {
+        "platform_id": 326,
+        "platform_name": "Hitachi Basic Master Level 3"
+    },
+    "hitachi-s1": {
+        "platform_id": 274,
+        "platform_name": "Hitachi S1"
+    },
+    "hugo": {
+        "platform_id": 170,
+        "platform_name": "Hugo"
+    },
+    "hyperscan": {
+        "platform_id": 192,
+        "platform_name": "HyperScan"
+    },
+    "ibm-5100": {
+        "platform_id": 250,
+        "platform_name": "IBM 5100"
+    },
+    "ideal-computer": {
+        "platform_id": 252,
+        "platform_name": "Ideal-Computer"
+    },
+    "intel-8008": {
+        "platform_id": 224,
+        "platform_name": "Intel 8008"
+    },
+    "intel-8080": {
+        "platform_id": 225,
+        "platform_name": "Intel 8080"
+    },
+    "intel-8086-8088": {
+        "platform_id": 317,
+        "platform_name": "Intel 8086 / 8088"
+    },
+    "intellivision": {
+        "platform_id": 30,
+        "platform_name": "Intellivision"
+    },
+    "interact-model-one": {
+        "platform_id": 295,
+        "platform_name": "Interact Model One"
+    },
+    "interton-video-2000": {
+        "platform_id": 221,
+        "platform_name": "Interton Video 2000"
+    },
+    "j2me": {
+        "platform_id": 64,
+        "platform_name": "J2ME"
+    },
+    "jaguar": {
+        "platform_id": 17,
+        "platform_name": "Jaguar"
+    },
+    "jolt": {
+        "platform_id": 247,
+        "platform_name": "Jolt"
+    },
+    "jupiter-ace": {
+        "platform_id": 153,
+        "platform_name": "Jupiter Ace"
+    },
+    "kim-1": {
+        "platform_id": 226,
+        "platform_name": "KIM-1"
+    },
+    "kaios": {
+        "platform_id": 313,
+        "platform_name": "KaiOS"
+    },
+    "kindle-classic": {
+        "platform_id": 145,
+        "platform_name": "Kindle Classic"
+    },
+    "laser-200": {
+        "platform_id": 264,
+        "platform_name": "Laser 200"
+    },
+    "laseractive": {
+        "platform_id": 163,
+        "platform_name": "LaserActive"
+    },
+    "leapfrog-explorer": {
+        "platform_id": 185,
+        "platform_name": "LeapFrog Explorer"
+    },
+    "leaptv": {
+        "platform_id": 186,
+        "platform_name": "LeapTV"
+    },
+    "leapster": {
+        "platform_id": 183,
+        "platform_name": "Leapster"
+    },
+    "linux": {
+        "platform_id": 1,
+        "platform_name": "Linux"
+    },
+    "luna": {
+        "platform_id": 297,
+        "platform_name": "Luna"
+    },
+    "lynx": {
+        "platform_id": 18,
+        "platform_name": "Lynx"
+    },
+    "mos-technology-6502": {
+        "platform_id": 240,
+        "platform_name": "MOS Technology 6502"
+    },
+    "mre": {
+        "platform_id": 229,
+        "platform_name": "MRE"
+    },
+    "msx": {
+        "platform_id": 57,
+        "platform_name": "MSX"
+    },
+    "macintosh": {
+        "platform_id": 74,
+        "platform_name": "Macintosh"
+    },
+    "maemo": {
+        "platform_id": 157,
+        "platform_name": "Maemo"
+    },
+    "magic-leap": {
+        "platform_id": 322,
+        "platform_name": "Magic Leap"
+    },
+    "mainframe": {
+        "platform_id": 208,
+        "platform_name": "Mainframe"
+    },
+    "matsushitapanasonic-jr": {
+        "platform_id": 307,
+        "platform_name": "Matsushita/Panasonic JR"
+    },
+    "mattel-aquarius": {
+        "platform_id": 135,
+        "platform_name": "Mattel Aquarius"
+    },
+    "meego": {
+        "platform_id": 158,
+        "platform_name": "MeeGo"
+    },
+    "memotech-mtx": {
+        "platform_id": 148,
+        "platform_name": "Memotech MTX"
+    },
+    "meritum": {
+        "platform_id": 311,
+        "platform_name": "Meritum"
+    },
+    "microbee": {
+        "platform_id": 200,
+        "platform_name": "Microbee"
+    },
+    "microtan-65": {
+        "platform_id": 232,
+        "platform_name": "Microtan 65"
+    },
+    "microvision": {
+        "platform_id": 97,
+        "platform_name": "Microvision"
+    },
+    "mitsubishi-multi-8": {
+        "platform_id": 328,
+        "platform_name": "Mitsubishi Multi-8"
+    },
+    "mophun": {
+        "platform_id": 71,
+        "platform_name": "Mophun"
+    },
+    "motorola-6800": {
+        "platform_id": 235,
+        "platform_name": "Motorola 6800"
+    },
+    "motorola-68k": {
+        "platform_id": 275,
+        "platform_name": "Motorola 68k"
+    },
+    "n-gage": {
+        "platform_id": 32,
+        "platform_name": "N-Gage"
+    },
+    "n-gage-service": {
+        "platform_id": 89,
+        "platform_name": "N-Gage (service)"
+    },
+    "nes": {
+        "platform_id": 22,
+        "platform_name": "NES"
+    },
+    "nascom": {
+        "platform_id": 175,
+        "platform_name": "Nascom"
+    },
+    "neo-geo": {
+        "platform_id": 36,
+        "platform_name": "Neo Geo"
+    },
+    "neo-geo-cd": {
+        "platform_id": 54,
+        "platform_name": "Neo Geo CD"
+    },
+    "neo-geo-pocket": {
+        "platform_id": 52,
+        "platform_name": "Neo Geo Pocket"
+    },
+    "neo-geo-pocket-color": {
+        "platform_id": 53,
+        "platform_name": "Neo Geo Pocket Color"
+    },
+    "neo-geo-x": {
+        "platform_id": 279,
+        "platform_name": "Neo Geo X"
+    },
+    "new-nintendo-3ds": {
+        "platform_id": 174,
+        "platform_name": "New Nintendo 3DS"
+    },
+    "newbrain": {
+        "platform_id": 177,
+        "platform_name": "NewBrain"
+    },
+    "newton": {
+        "platform_id": 207,
+        "platform_name": "Newton"
+    },
+    "nintendo-3ds": {
+        "platform_id": 101,
+        "platform_name": "Nintendo 3DS"
+    },
+    "nintendo-64": {
+        "platform_id": 9,
+        "platform_name": "Nintendo 64"
+    },
+    "nintendo-ds": {
+        "platform_id": 44,
+        "platform_name": "Nintendo DS"
+    },
+    "nintendo-dsi": {
+        "platform_id": 87,
+        "platform_name": "Nintendo DSi"
+    },
+    "nintendo-switch": {
+        "platform_id": 203,
+        "platform_name": "Nintendo Switch"
+    },
+    "north-star": {
+        "platform_id": 266,
+        "platform_name": "North Star"
+    },
+    "noval-760": {
+        "platform_id": 244,
+        "platform_name": "Noval 760"
+    },
+    "nuon": {
+        "platform_id": 116,
+        "platform_name": "Nuon"
+    },
+    "ooparts": {
+        "platform_id": 300,
+        "platform_name": "OOParts"
+    },
+    "os2": {
+        "platform_id": 146,
+        "platform_name": "OS/2"
+    },
+    "oculus-go": {
+        "platform_id": 218,
+        "platform_name": "Oculus Go"
+    },
+    "odyssey": {
+        "platform_id": 75,
+        "platform_name": "Odyssey"
+    },
+    "odyssey-2": {
+        "platform_id": 78,
+        "platform_name": "Odyssey 2"
+    },
+    "ohio-scientific": {
+        "platform_id": 178,
+        "platform_name": "Ohio Scientific"
+    },
+    "onlive": {
+        "platform_id": 282,
+        "platform_name": "OnLive"
+    },
+    "orao": {
+        "platform_id": 270,
+        "platform_name": "Orao"
+    },
+    "oric": {
+        "platform_id": 111,
+        "platform_name": "Oric"
+    },
+    "ouya": {
+        "platform_id": 144,
+        "platform_name": "Ouya"
+    },
+    "pc-booter": {
+        "platform_id": 4,
+        "platform_name": "PC Booter"
+    },
+    "pc-6001": {
+        "platform_id": 149,
+        "platform_name": "PC-6001"
+    },
+    "pc-8000": {
+        "platform_id": 201,
+        "platform_name": "PC-8000"
+    },
+    "pc-88": {
+        "platform_id": 94,
+        "platform_name": "PC-88"
+    },
+    "pc-98": {
+        "platform_id": 95,
+        "platform_name": "PC-98"
+    },
+    "pc-fx": {
+        "platform_id": 59,
+        "platform_name": "PC-FX"
+    },
+    "pico": {
+        "platform_id": 316,
+        "platform_name": "PICO"
+    },
+    "ps-vita": {
+        "platform_id": 105,
+        "platform_name": "PS Vita"
+    },
+    "psp": {
+        "platform_id": 46,
+        "platform_name": "PSP"
+    },
+    "palm-os": {
+        "platform_id": 65,
+        "platform_name": "Palm OS"
+    },
+    "pandora": {
+        "platform_id": 308,
+        "platform_name": "Pandora"
+    },
+    "pebble": {
+        "platform_id": 304,
+        "platform_name": "Pebble"
+    },
+    "philips-p2000": {
+        "platform_id": 321,
+        "platform_name": "Philips P2000"
+    },
+    "philips-vg-5000": {
+        "platform_id": 133,
+        "platform_name": "Philips VG 5000"
+    },
+    "photo-cd": {
+        "platform_id": 272,
+        "platform_name": "Photo CD"
+    },
+    "pippin": {
+        "platform_id": 112,
+        "platform_name": "Pippin"
+    },
+    "playstation": {
+        "platform_id": 6,
+        "platform_name": "PlayStation"
+    },
+    "playstation-2": {
+        "platform_id": 7,
+        "platform_name": "PlayStation 2"
+    },
+    "playstation-3": {
+        "platform_id": 81,
+        "platform_name": "PlayStation 3"
+    },
+    "playstation-4": {
+        "platform_id": 141,
+        "platform_name": "PlayStation 4"
+    },
+    "playstation-5": {
+        "platform_id": 288,
+        "platform_name": "PlayStation 5"
+    },
+    "playstation-now": {
+        "platform_id": 294,
+        "platform_name": "PlayStation Now"
+    },
+    "playdate": {
+        "platform_id": 303,
+        "platform_name": "Playdate"
+    },
+    "playdia": {
+        "platform_id": 107,
+        "platform_name": "Playdia"
+    },
+    "plex-arcade": {
+        "platform_id": 291,
+        "platform_name": "Plex Arcade"
+    },
+    "pokitto": {
+        "platform_id": 230,
+        "platform_name": "Pokitto"
+    },
+    "pokemon-mini": {
+        "platform_id": 152,
+        "platform_name": "Pok\u00e9mon Mini"
+    },
+    "poly-88": {
+        "platform_id": 249,
+        "platform_name": "Poly-88"
+    },
+    "quest": {
+        "platform_id": 271,
+        "platform_name": "Quest"
+    },
+    "rca-studio-ii": {
+        "platform_id": 113,
+        "platform_name": "RCA Studio II"
+    },
+    "research-machines-380z": {
+        "platform_id": 309,
+        "platform_name": "Research Machines 380Z"
+    },
+    "roku": {
+        "platform_id": 196,
+        "platform_name": "Roku"
+    },
+    "sam-coupe": {
+        "platform_id": 120,
+        "platform_name": "SAM Coup\u00e9"
+    },
+    "scmp": {
+        "platform_id": 255,
+        "platform_name": "SC/MP"
+    },
+    "sd-200270290": {
+        "platform_id": 267,
+        "platform_name": "SD-200/270/290"
+    },
+    "sega-32x": {
+        "platform_id": 21,
+        "platform_name": "SEGA 32X"
+    },
+    "sega-cd": {
+        "platform_id": 20,
+        "platform_name": "SEGA CD"
+    },
+    "sega-master-system": {
+        "platform_id": 26,
+        "platform_name": "SEGA Master System"
+    },
+    "sega-pico": {
+        "platform_id": 103,
+        "platform_name": "SEGA Pico"
+    },
+    "sega-saturn": {
+        "platform_id": 23,
+        "platform_name": "SEGA Saturn"
+    },
+    "sg-1000": {
+        "platform_id": 114,
+        "platform_name": "SG-1000"
+    },
+    "sk-vm": {
+        "platform_id": 259,
+        "platform_name": "SK-VM"
+    },
+    "smc-777": {
+        "platform_id": 273,
+        "platform_name": "SMC-777"
+    },
+    "snes": {
+        "platform_id": 15,
+        "platform_name": "SNES"
+    },
+    "spc-1000": {
+        "platform_id": 327,
+        "platform_name": "SPC-1000"
+    },
+    "sri-5001000": {
+        "platform_id": 242,
+        "platform_name": "SRI-500/1000"
+    },
+    "swtpc-6800": {
+        "platform_id": 228,
+        "platform_name": "SWTPC 6800"
+    },
+    "sharp-mz-80b20002500": {
+        "platform_id": 182,
+        "platform_name": "Sharp MZ-80B/2000/2500"
+    },
+    "sharp-mz-80k7008001500": {
+        "platform_id": 181,
+        "platform_name": "Sharp MZ-80K/700/800/1500"
+    },
+    "sharp-x1": {
+        "platform_id": 121,
+        "platform_name": "Sharp X1"
+    },
+    "sharp-x68000": {
+        "platform_id": 106,
+        "platform_name": "Sharp X68000"
+    },
+    "sharp-zaurus": {
+        "platform_id": 202,
+        "platform_name": "Sharp Zaurus"
+    },
+    "signetics-2650": {
+        "platform_id": 278,
+        "platform_name": "Signetics 2650"
+    },
+    "sinclair-ql": {
+        "platform_id": 131,
+        "platform_name": "Sinclair QL"
+    },
+    "socrates": {
+        "platform_id": 190,
+        "platform_name": "Socrates"
+    },
+    "sol-20": {
+        "platform_id": 199,
+        "platform_name": "Sol-20"
+    },
+    "sord-m5": {
+        "platform_id": 134,
+        "platform_name": "Sord M5"
+    },
+    "spectravideo": {
+        "platform_id": 85,
+        "platform_name": "Spectravideo"
+    },
+    "stadia": {
+        "platform_id": 281,
+        "platform_name": "Stadia"
+    },
+    "super-a-can": {
+        "platform_id": 110,
+        "platform_name": "Super A'can"
+    },
+    "super-vision-8000": {
+        "platform_id": 296,
+        "platform_name": "Super Vision 8000"
+    },
+    "supergrafx": {
+        "platform_id": 127,
+        "platform_name": "SuperGrafx"
+    },
+    "supervision": {
+        "platform_id": 109,
+        "platform_name": "Supervision"
+    },
+    "sure-shot-hd": {
+        "platform_id": 287,
+        "platform_name": "Sure Shot HD"
+    },
+    "symbian": {
+        "platform_id": 67,
+        "platform_name": "Symbian"
+    },
+    "tads": {
+        "platform_id": 171,
+        "platform_name": "TADS"
+    },
+    "ti-programmable-calculator": {
+        "platform_id": 239,
+        "platform_name": "TI Programmable Calculator"
+    },
+    "ti-994a": {
+        "platform_id": 47,
+        "platform_name": "TI-99/4A"
+    },
+    "tim": {
+        "platform_id": 246,
+        "platform_name": "TIM"
+    },
+    "trs-80": {
+        "platform_id": 58,
+        "platform_name": "TRS-80"
+    },
+    "trs-80-coco": {
+        "platform_id": 62,
+        "platform_name": "TRS-80 CoCo"
+    },
+    "trs-80-mc-10": {
+        "platform_id": 193,
+        "platform_name": "TRS-80 MC-10"
+    },
+    "trs-80-model-100": {
+        "platform_id": 312,
+        "platform_name": "TRS-80 Model 100"
+    },
+    "taito-x-55": {
+        "platform_id": 283,
+        "platform_name": "Taito X-55"
+    },
+    "tatung-einstein": {
+        "platform_id": 150,
+        "platform_name": "Tatung Einstein"
+    },
+    "tektronix-4050": {
+        "platform_id": 223,
+        "platform_name": "Tektronix 4050"
+    },
+    "tele-spiel-es-2201": {
+        "platform_id": 220,
+        "platform_name": "Tele-Spiel ES-2201"
+    },
+    "telstar-arcade": {
+        "platform_id": 233,
+        "platform_name": "Telstar Arcade"
+    },
+    "terminal": {
+        "platform_id": 209,
+        "platform_name": "Terminal"
+    },
+    "thomson-mo": {
+        "platform_id": 147,
+        "platform_name": "Thomson MO"
+    },
+    "thomson-to": {
+        "platform_id": 130,
+        "platform_name": "Thomson TO"
+    },
+    "tiki-100": {
+        "platform_id": 263,
+        "platform_name": "Tiki 100"
+    },
+    "timex-sinclair-2068": {
+        "platform_id": 173,
+        "platform_name": "Timex Sinclair 2068"
+    },
+    "tizen": {
+        "platform_id": 206,
+        "platform_name": "Tizen"
+    },
+    "tomahawk-f1": {
+        "platform_id": 256,
+        "platform_name": "Tomahawk F1"
+    },
+    "tomy-tutor": {
+        "platform_id": 151,
+        "platform_name": "Tomy Tutor"
+    },
+    "toshiba-pasopia": {
+        "platform_id": 325,
+        "platform_name": "Toshiba Pasopia"
+    },
+    "triton": {
+        "platform_id": 310,
+        "platform_name": "Triton"
+    },
+    "turbografx-cd": {
+        "platform_id": 45,
+        "platform_name": "TurboGrafx CD"
+    },
+    "turbografx-16": {
+        "platform_id": 40,
+        "platform_name": "TurboGrafx-16"
+    },
+    "v-flash": {
+        "platform_id": 189,
+        "platform_name": "V.Flash"
+    },
+    "v-smile": {
+        "platform_id": 42,
+        "platform_name": "V.Smile"
+    },
+    "vic-20": {
+        "platform_id": 43,
+        "platform_name": "VIC-20"
+    },
+    "vis": {
+        "platform_id": 164,
+        "platform_name": "VIS"
+    },
+    "vectrex": {
+        "platform_id": 37,
+        "platform_name": "Vectrex"
+    },
+    "versatile": {
+        "platform_id": 299,
+        "platform_name": "Versatile"
+    },
+    "videobrain": {
+        "platform_id": 214,
+        "platform_name": "VideoBrain"
+    },
+    "videopac-g7400": {
+        "platform_id": 128,
+        "platform_name": "Videopac+ G7400"
+    },
+    "virtual-boy": {
+        "platform_id": 38,
+        "platform_name": "Virtual Boy"
+    },
+    "wipi": {
+        "platform_id": 260,
+        "platform_name": "WIPI"
+    },
+    "wang-2200": {
+        "platform_id": 217,
+        "platform_name": "Wang 2200"
+    },
+    "wii": {
+        "platform_id": 82,
+        "platform_name": "Wii"
+    },
+    "wii-u": {
+        "platform_id": 132,
+        "platform_name": "Wii U"
+    },
+    "windows": {
+        "platform_id": 3,
+        "platform_name": "Windows"
+    },
+    "windows-3-x": {
+        "platform_id": 5,
+        "platform_name": "Windows 3.x"
+    },
+    "windows-apps": {
+        "platform_id": 140,
+        "platform_name": "Windows Apps"
+    },
+    "windows-mobile": {
+        "platform_id": 66,
+        "platform_name": "Windows Mobile"
+    },
+    "windows-phone": {
+        "platform_id": 98,
+        "platform_name": "Windows Phone"
+    },
+    "wonderswan": {
+        "platform_id": 48,
+        "platform_name": "WonderSwan"
+    },
+    "wonderswan-color": {
+        "platform_id": 49,
+        "platform_name": "WonderSwan Color"
+    },
+    "xavixport": {
+        "platform_id": 191,
+        "platform_name": "XaviXPORT"
+    },
+    "xbox": {
+        "platform_id": 13,
+        "platform_name": "Xbox"
+    },
+    "xbox-360": {
+        "platform_id": 69,
+        "platform_name": "Xbox 360"
+    },
+    "xbox-cloud-gaming": {
+        "platform_id": 293,
+        "platform_name": "Xbox Cloud Gaming"
+    },
+    "xbox-one": {
+        "platform_id": 142,
+        "platform_name": "Xbox One"
+    },
+    "xbox-series": {
+        "platform_id": 289,
+        "platform_name": "Xbox Series"
+    },
+    "xerox-alto": {
+        "platform_id": 254,
+        "platform_name": "Xerox Alto"
+    },
+    "z-machine": {
+        "platform_id": 169,
+        "platform_name": "Z-machine"
+    },
+    "zx-spectrum": {
+        "platform_id": 41,
+        "platform_name": "ZX Spectrum"
+    },
+    "zx-spectrum-next": {
+        "platform_id": 280,
+        "platform_name": "ZX Spectrum Next"
+    },
+    "zx80": {
+        "platform_id": 118,
+        "platform_name": "ZX80"
+    },
+    "zx81": {
+        "platform_id": 119,
+        "platform_name": "ZX81"
+    },
+    "zeebo": {
+        "platform_id": 88,
+        "platform_name": "Zeebo"
+    },
+    "zilog-z80": {
+        "platform_id": 227,
+        "platform_name": "Zilog Z80"
+    },
+    "zilog-z8000": {
+        "platform_id": 276,
+        "platform_name": "Zilog Z8000"
+    },
+    "zodiac": {
+        "platform_id": 68,
+        "platform_name": "Zodiac"
+    },
+    "zune": {
+        "platform_id": 211,
+        "platform_name": "Zune"
+    },
+    "bada": {
+        "platform_id": 99,
+        "platform_name": "bada"
+    },
+    "digiblast": {
+        "platform_id": 187,
+        "platform_name": "digiBlast"
+    },
+    "ipad": {
+        "platform_id": 96,
+        "platform_name": "iPad"
+    },
+    "iphone": {
+        "platform_id": 86,
+        "platform_name": "iPhone"
+    },
+    "ipod-classic": {
+        "platform_id": 80,
+        "platform_name": "iPod Classic"
+    },
+    "iircade": {
+        "platform_id": 314,
+        "platform_name": "iiRcade"
+    },
+    "tvos": {
+        "platform_id": 179,
+        "platform_name": "tvOS"
+    },
+    "visionos": {
+        "platform_id": 323,
+        "platform_name": "visionOS"
+    },
+    "watchos": {
+        "platform_id": 180,
+        "platform_name": "watchOS"
+    },
+    "webos": {
+        "platform_id": 100,
+        "platform_name": "webOS"
+    }
+}
