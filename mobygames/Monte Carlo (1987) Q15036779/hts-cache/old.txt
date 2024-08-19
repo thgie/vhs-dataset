@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:25:33	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:55:18%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:25:33	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:55:19%20GMT	https://www.mobygames.com/game/77141/	mobygames/Monte%20Carlo%20(1987)%20Q15036779/www.mobygames.com/game/77141/index.html	(from )

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:27:13	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:45%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:27:13	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:46%20GMT	https://www.mobygames.com/game/29449/	mobygames/Wonder%20Momo%20(1987_1989)%20Q8031767/www.mobygames.com/game/29449/index.html	(from )

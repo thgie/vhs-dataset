@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:03:35	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:46:07%20GMT	https://www.mobygames.com/robots.txt		(from )
+15:03:35	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:46:08%20GMT	https://www.mobygames.com/game/1791/	mobygames/A%20Nightmare%20on%20Elm%20Street%20(1989)%20Q16161674/www.mobygames.com/game/1791/index.html	(from )

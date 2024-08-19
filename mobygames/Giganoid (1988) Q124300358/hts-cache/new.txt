@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:04:59	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:46%20GMT	https://www.mobygames.com/robots.txt		(from )
+12:04:59	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:47%20GMT	https://www.mobygames.com/game/65657/	mobygames/Giganoid%20(1988)%20Q124300358/www.mobygames.com/game/65657/index.html	(from )

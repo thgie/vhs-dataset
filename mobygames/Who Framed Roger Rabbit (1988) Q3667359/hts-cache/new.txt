@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:35:18	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:03%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:35:18	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:04%20GMT	https://www.mobygames.com/game/2/	mobygames/Who%20Framed%20Roger%20Rabbit%20(1988)%20Q3667359/www.mobygames.com/game/2/index.html	(from )

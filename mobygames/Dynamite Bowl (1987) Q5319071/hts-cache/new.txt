@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:34:08	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:46:16%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:34:08	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:46:17%20GMT	https://www.mobygames.com/game/20371/	mobygames/Dynamite%20Bowl%20(1987)%20Q5319071/www.mobygames.com/game/20371/index.html	(from )

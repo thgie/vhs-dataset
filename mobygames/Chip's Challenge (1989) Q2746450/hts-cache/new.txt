@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:07:21	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2019:24:51%20GMT	https://www.mobygames.com/robots.txt		(from )
+12:07:21	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2019:24:52%20GMT	https://www.mobygames.com/game/5012/	mobygames/Chip's%20Challenge%20(1989)%20Q2746450/www.mobygames.com/game/5012/index.html	(from )

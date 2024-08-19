@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:33:46	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2016:36:01%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:33:46	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2016:36:02%20GMT	https://www.mobygames.com/game/19390/	mobygames/Anarchy%20(1987)%20Q21451144/www.mobygames.com/game/19390/index.html	(from )

@@ -1,0 +1,8 @@
+-iC1 -q -%i -w https://www.mobygames.com/game/251/ -O "mobygames/Saboteur II: Avenging Angel (1987) Q55533" -n -%P -N0 -s2 -p7 -D -a -K0 -c10 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -*.webp -*.css -*.js -*.xml -*.txt -*.pdf -*wikipedia* -*wikimedia* -*wikicommons* -*creativecommons* +*.png +*.gif +*.jpg +*.jpeg -%s -%u -%e0 -d
+File generated automatically on Wed, 26 Jun 2024 11:32:48, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

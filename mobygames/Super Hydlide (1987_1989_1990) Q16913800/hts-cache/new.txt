@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:35:16	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:51%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:35:16	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:52%20GMT	https://www.mobygames.com/game/13526/	mobygames/Super%20Hydlide%20(1987_1989_1990)%20Q16913800/www.mobygames.com/game/13526/index.html	(from )

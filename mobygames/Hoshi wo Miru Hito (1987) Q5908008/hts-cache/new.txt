@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:34:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:55:08%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:34:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2017:55:09%20GMT	https://www.mobygames.com/game/32112/	mobygames/Hoshi%20wo%20Miru%20Hito%20(1987)%20Q5908008/www.mobygames.com/game/32112/index.html	(from )

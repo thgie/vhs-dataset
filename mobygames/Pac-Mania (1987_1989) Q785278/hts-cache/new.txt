@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:35:16	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:49%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:35:16	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:49:50%20GMT	https://www.mobygames.com/game/8756/	mobygames/Pac-Mania%20(1987_1989)%20Q785278/www.mobygames.com/game/8756/index.html	(from )

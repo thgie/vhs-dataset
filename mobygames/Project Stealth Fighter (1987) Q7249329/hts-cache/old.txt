@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:26:13	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2019:21:14%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:26:13	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2019:21:15%20GMT	https://www.mobygames.com/game/109307/	mobygames/Project%20Stealth%20Fighter%20(1987)%20Q7249329/www.mobygames.com/game/109307/index.html	(from )

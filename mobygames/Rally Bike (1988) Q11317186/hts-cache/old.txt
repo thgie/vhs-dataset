@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:46:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:52%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:46:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:53%20GMT	https://www.mobygames.com/game/34635/	mobygames/Rally%20Bike%20(1988)%20Q11317186/www.mobygames.com/game/34635/index.html	(from )

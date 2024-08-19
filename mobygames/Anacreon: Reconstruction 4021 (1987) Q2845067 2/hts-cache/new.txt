@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:32:49	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:29:59%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:32:49	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:30:00%20GMT	https://www.mobygames.com/game/6435/	mobygames/Anacreon:%20Reconstruction%204021%20(1987)%20Q2845067%202/www.mobygames.com/game/6435/index.html	(from )

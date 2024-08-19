@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:27:17	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:17%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:27:17	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:18%20GMT	https://www.mobygames.com/game/1732/	mobygames/Steel%20Thunder%20(1988)%20Q11836309/www.mobygames.com/game/1732/index.html	(from )

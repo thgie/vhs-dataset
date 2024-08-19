@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:32:44	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:15:56%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:32:44	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:15:57%20GMT	https://www.mobygames.com/game/1423/	mobygames/The%20Last%20Ninja%20(1987)%20Q2117391/www.mobygames.com/game/1423/index.html	(from )

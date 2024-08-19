@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:03:49	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2018:49:17%20GMT	https://www.mobygames.com/robots.txt		(from )
+15:03:49	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2018:49:18%20GMT	https://www.mobygames.com/game/1721/	mobygames/Le%20Fetiche%20Maya%20(1989)%20Q2270588/www.mobygames.com/game/1721/index.html	(from )

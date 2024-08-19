@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:23:30	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:23:00%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:23:30	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2013:23:01%20GMT	https://www.mobygames.com/game/32007/	mobygames/Q78921605%20(1987)%20Q78921605/www.mobygames.com/game/32007/index.html	(from )

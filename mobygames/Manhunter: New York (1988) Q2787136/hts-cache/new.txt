@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:35:18	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:11%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:35:18	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Mon,%2024%20Jun%202024%2004:57:12%20GMT	https://www.mobygames.com/game/24/	mobygames/Manhunter:%20New%20York%20(1988)%20Q2787136/www.mobygames.com/game/24/index.html	(from )

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:05:30	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2012:14:13%20GMT	https://www.mobygames.com/robots.txt		(from )
+12:05:30	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2012:14:14%20GMT	https://www.mobygames.com/game/54870/	mobygames/Borodino%20(1988)%20Q41495314/www.mobygames.com/game/54870/index.html	(from )

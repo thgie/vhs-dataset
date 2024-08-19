@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:33:07	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2014:37:32%20GMT	https://www.mobygames.com/robots.txt		(from )
+11:33:07	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2014:37:33%20GMT	https://www.mobygames.com/game/13585/	mobygames/Spelunker%20II:%20Y%c5%absha%20e%20no%20Ch%c5%8dsen%20(1987)%20Q7575926/www.mobygames.com/game/13585/index.html	(from )

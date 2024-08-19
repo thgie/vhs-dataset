@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 26 Jun 2024 12:05:29 at https://www.mobygames.com/game/16377/ -*.webp -*.css -*.js -*.xml -*.txt -*.pdf -*wikipedia* -*wikimedia* -*wikicommons* -*creativecommons* +*.png +*.gif +*.jpg +*.jpeg
+(httrack -iC1 -q -%i -w https://www.mobygames.com/game/16377/ -O "mobygames/Splatterhouse (1988) Q588526" -n -%P -N0 -s2 -p7 -D -a -K0 -c10 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -*.webp -*.css -*.js -*.xml -*.txt -*.pdf -*wikipedia* -*wikimedia* -*wikicommons* -*creativecommons* +*.png +*.gif +*.jpg +*.jpeg -%s -%u -%e0 -d )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:05:29	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
+12:05:29	Error: 	"Too Many Requests" (429) at link https://www.mobygames.com/game/16377/ (from primary/primary)
+12:05:29	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

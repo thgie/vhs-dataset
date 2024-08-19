@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:46:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:48%20GMT	https://www.mobygames.com/robots.txt		(from )
+14:46:11	5372/5372	------	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:49%20GMT	https://www.mobygames.com/game/53911/	mobygames/Princess%20Tomato%20in%20the%20Salad%20Kingdom%20(1988)%20Q5226611/www.mobygames.com/game/53911/index.html	(from )
