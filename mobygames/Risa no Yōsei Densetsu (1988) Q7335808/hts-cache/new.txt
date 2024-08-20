@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-13:11:43	5372/5372	---M--	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:42%20GMT	https://www.mobygames.com/robots.txt		(from )
-13:11:44	5372/5372	---M--	429	error ('Too%20Many%20Requests')	text/html	date:Sun,%2023%20Jun%202024%2011:11:43%20GMT	https://www.mobygames.com/game/74548/	Risa%20no%20Y%c5%8dsei%20Densetsu%20(1988)%20Q7335808/www.mobygames.com/game/74548/index.html	(from )
