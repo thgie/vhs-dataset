@@ -1,7 +1,7 @@
 # Video Game History Screenshots Dataset
 ## Observing the Coming of Age of Video Games' Images
 
-This repository holds a dataset of video game screenshots, scripts aiding in analysing these, and the resulting data from the analysis. The Video Game History Screenshots Dataset (VHS-D) consists of 113'900 in-game screenshots, taken of 4316 video games from 1950-1990.
+This repository holds a dataset of video game screenshots, scripts aiding in analysing these, and the resulting data from the analysis. The Video Game History Screenshots Dataset (VHS-D) consists of 113'555 in-game screenshots, taken of 4316 video games from 1950-1990.
 
 ## Screenshots
 ![Screenshot of the FiftyOne interface with some samples loaded](Screenshot_20240704_205800.png)
@@ -9,6 +9,7 @@ This repository holds a dataset of video game screenshots, scripts aiding in ana
 ![Screenshot of the FiftyOne interface with some samples loaded](Screenshot_20240705_154837.png)
 
 ## Todos
+- [x] Fix year per sample by going through Wikidata/Mobygames date of publication per system metadata
 - [ ] Add genre from Wikidata and/or Mobygames
 - [ ] Add metadata on perspective visual presentation from Mobygames
 - [ ] Visualize metadata per cluster
