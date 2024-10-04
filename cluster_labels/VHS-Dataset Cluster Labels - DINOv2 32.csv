@@ -1,0 +1,33 @@
+ID,Title,Text,Colors,Graphics,Modes,Content
+0,boxing,little in HUD,"blue dominating, some bright","3/4 projection, some perspective",in-game,people boxing or wrestling
+1,simple lists,"lists, simple titles","few, black dominating",text on simple background,"title, score, menu","text, few tiny characters"
+2,early action,little in HUD,"few, basic","low-res, large uni-colored blocks, clear horizontal and vertical lines dominating","in-game, some menu",very block levels
+3,gloom-ish portraits,little running and lists,muted,large illustrations,"cut scene, menu","close-up portrait of people, gloom-ish, some nudity"
+4,simple titles,"simple decorative titles, some text","few, black dominating",,title,"text, some decorative elements"
+5,POV racing,little in HUD,-,"perspective projection, dynamic",in-game POV,"vehicles, mostly cars, some driving/race related elements, driving HUDs"
+6,HUDs with graphics,some in HUD,-,"framed illustrative elements, simple, decorative HUD borders","in-game, title, score",HUDs containing various game genres and subjects
+7,little text,"little, simple","very few, black or uni-colored background dominating",low-res,"title, menu, impressum",text
+8,HUDs with text,text dominating HUD,basic,-,-,HUDs containing a lot of text for various reasons
+9,maps,very little,"few, basic, blue and green dominating",-,"in-game, in-game overview",maps and map-like structures
+10,space action,very little as messages,darker neutral,"grungy textures, some grid-like structures",in-game,"space- and scifi-structures, small PC/NPC, some HUD, some map-like, slightly menacing"
+11,menacing title screens,decorative titles,darker neutral,large illustrations,"title, some cut-scene","full-body shots of people, anthropomorphized animals, some monsters, some fighting"
+12,historic fighting,very little,"muted, neutral",side-view,in-game,"PC/NPCs on streets, martial arts and sword fighting, some historic buildings"
+13,pre-historic adventures,very little,"few, bright, black dominating","side-view, some 3/4 projection, repeated elements",in-game,"small characters in desolated nature, some jungle and pre-historic elements"
+14,abstracted gameplay,little,"few, basic, large uni-colored areas","low-res, decorative border framing the screen, some grid, some repeated block-like structures, mostly side-view, some 3/4","in-game, some menu or score","small abstract PC/NPCs, simple in-game relevant abstracted elements"
+15,low-res action,little,"few, bright","large uni-colored areas dominating, simple","side-view, top-down","tiny PC/NPC on grass or in water, space, some airborn vehicle PC"
+16,sci-fi action titles,decorative titles,darker neutral,"large illustrations, static, some perspective","title, cut-scene","airborn vehicles, spaceships, buggies, scifi structures, some shoothing, few portrait"
+17,weirdcore,"decorative titles, some messages",muted,largly illustrated with message boxes,"title, cute-scene, in-game","cone-like structures, some vehicles, slightly menacing, difficult to draw on context"
+18,rugged nature action,very little,"basic, green and blue-tones dominating, some brown tones","some horizontal and vertical structures discernable, some repeated elements, side-view and 3/4",in-game,"PC/NPCs traversing or fighting hostile-ish nature, some shooting, some fighting"
+19,simple text,filling screen,"very few, black or uni-colored background dominating","low-res, very few decorative elements",text,text
+20,tiles and mazes,very little,"few, neutral, black dominating","low-res, repeating elements and patters, block-ish",in-game,"mazes, grid-like structures, tiles"
+21,vectorized POV,very little,"few, basic, bright","low-res, diagonal lines, central perspective projection, large uni-colored areas, some 3d",in-game,"mostly void of discernable characters, vectorized structures, sports"
+22,tile-based action,very little,"bright, contrast-rich","tiles, repeating patterns, grid-like structures, dynamic",in-game,"small PC/NPC, brick-work, stones and bare earth, alien-ish environments"
+23,isometric landscapes,very little,"few, simple","oblique, 3/4 projection, simple, uni-colored areas",in-game,"isometric structures and landscapes, some PC/NPC, some map-like"
+24,graphic adventures,some messages,"few, bright",largly illustrated with message boxes,"in-game, cut-scene","portraits, half-body shots, people interacting, some dead, inside of buildings"
+25,sports on green,"very little, few titles","basic, green dominating",-,"in-game, title","small characters, sport disciplines, sport elements"
+26,simple text,dominating screen,"mostly two colored, black dominating","low-res, very few decorative elements","in-game, title, menu, score","text, frames"
+27,simple decorative titles,decorative titles,"few, bright, black dominating","static, low-res-ish",title,"very decorative titles, some portraits"
+28,abstract POV stearing,very little in HUD,"few, muted, black very present","POV, 3d, central perspective",in-game,"HUDs dominating, cockpits, abstracted 3d landscapes, some PC/NPC"
+29,exploring nature,very little messages,basic,"low-res, illustrative, message on bottom","in-game, some title","small PC/NPC in illustrated nature settings, plant parts"
+30,warehouse action,very little,"basic, muted, black very present","low-res-ish, horizontal and vertical lines dominating, some stair-like structures",in-game,"small characters in or before warehouses, some fighting"
+31,skeuomorphic graphic adventures,messages dominating screen,"basic, uni-colored backgrounds","text in frames dominating, decorative elements and borders","in-game, menu","portraits of people, text and graphic elements in frames"

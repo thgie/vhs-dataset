@@ -1,0 +1,9 @@
+ID,Title,Text,Colors,Graphics,Modes,Content
+0,mazes,little in HUD,"few, basic, black dominating","low-res, large uni-colored blocks, thin lines","in-game, score","mazes, grids, some HUD, tiny PC/NPC (people, monsters, vehicels)"
+1,title screens,"some titles, some running","many, bright","static, illustrative","title, in-game, POV","larger illustration of people, some vehicles, some weapons, some HUD, slightly menacing"
+2,text screens,"simple titles, lists","few, black dominating",text on simple background,"title, score",text
+3,perspective projection,little in HUD,many,"dynamic, unordered, some patters, some perspective projection",in-game,"platformers, racing, some fighting"
+4,maps,very little,"few, black and green dominating",mostly low-res,"in-game, in-game overview","maps, map-like structures"
+5,HUDs,very little in HUD,"basic, bright","unordered but grid-like, horizontal lines","in-game, menu",HUD dominating
+6,running text and lists,"running, lists, some simple titles","very few, black dominating",low-res,"text in-game, title, score, message",text
+7,simple title screens,"decorative titles, some running","few, bright","simple, text mixed with framed graphics","title, menu, in-game","decorative titles, some HUD, people portraits, some dragons"
